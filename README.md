@@ -86,16 +86,16 @@ El segundo programa utiliza las funciones de consola para desplazar un carácter
 Las evidencias correspondientes a las pruebas de los programas se organizan con las siguientes referencias:
 
 ### Parte 1 – Ejecución original
-![Codigo de la primera parte](evidencias/parte1.png)
+![Codigo de la primera parte](Evidencias/parte1.png)
 
 ### Parte 1 – Ejecución modificada
-![Codigo de la primera parte con parámetros modificados](evidencias/parte1_modificada.png)
+![Codigo de la primera parte con parámetros modificados](Evidencias/parte1_modificada.png)
 
 ### Parte 2 – Ejecución original
-![Codigo de la animación](evidencias/parte2.png)
+![Codigo de la animación](Evidencias/parte2.png)
 
 ### Parte 2 – Ejecución modificada
-![Codigo de la animación con parámetros modificados](evidencias/parte2_modificada.png)
+![Codigo de la animación con parámetros modificados](Evidencias/parte2_modificada.png)
 
 
 ## Evidencias de ejecución
