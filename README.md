@@ -81,15 +81,22 @@ El segundo programa utiliza las funciones de consola para desplazar un carácter
 7. Ejecuta `Sleep` durante 50 milisegundos para controlar la velocidad de desplazamiento.
 8. Incrementa la posición horizontal hasta alcanzar el límite definido por el programa.
 
-## Parámetros modificables
+## Evidencias de ejecución
 
-Los siguientes elementos permiten comprobar el comportamiento de los programas mediante cambios en sus parámetros:
+Las evidencias correspondientes a las pruebas de los programas se organizan con las siguientes referencias:
 
-- **Posición inicial (Parte 1):** el valor de `coord` determina la columna y la fila donde aparece el carácter.
-- **Color (Parte 1):** el atributo enviado a `SetConsoleTextAttribute` modifica el color del texto y del fondo.
-- **Velocidad (Parte 2):** el valor enviado a `Sleep` determina el intervalo entre movimientos. Un valor menor produce un desplazamiento más rápido y uno mayor produce uno más lento.
-- **Carácter (Parte 2):** la variable `caracter` permite sustituir `X` por otro símbolo, por ejemplo `O` o `#`.
-- **Dirección (Parte 2):** el sentido del desplazamiento puede invertirse modificando la posición inicial, la actualización de X y la condición que determina el límite del recorrido.
+### Parte 1 – Ejecución original
+![Codigo de la primera parte](evidencias/parte1.png)
+
+### Parte 1 – Ejecución modificada
+![Codigo de la primera parte con parámetros modificados](evidencias/parte1_modificada.png)
+
+### Parte 2 – Ejecución original
+![Codigo de la animación](evidencias/parte2.png)
+
+### Parte 2 – Ejecución modificada
+![Codigo de la animación con parámetros modificados](evidencias/parte2_modificada.png)
+
 
 ## Evidencias de ejecución
 
